@@ -1,0 +1,16 @@
+project_name:
+- project_test
+
+rec_name:
+- rec
+
+rec_bag:
+- .bag/img/
+
+cam_names:
+# top has no space
+- Cam
+- Cam 
+
+vid_name:
+- image.avi
